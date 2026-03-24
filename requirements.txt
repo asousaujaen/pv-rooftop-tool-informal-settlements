@@ -1,0 +1,11 @@
+ttkthemes
+folium
+branca
+geopandas
+numpy
+shapely
+rasterio
+rasterstats
+fiona
+pyproj
+pandas

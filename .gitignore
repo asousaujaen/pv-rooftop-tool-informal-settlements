@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+.venv/
+venv/
+*.html
+*.gpkg-wal
+*.gpkg-shm
+.DS_Store
